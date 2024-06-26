@@ -38,5 +38,10 @@
     "karma-jasmine": "~4.0.0",
     "karma-jasmine-html-reporter": "~1.7.0",
     "typescript": "~4.3.5"
-  }
+  },
+  "description": "<!-- Keeping yaml frontmatter commented out for now\r ---\r # Metadata required by https://learn.microsoft.com/samples/browse/\r # Metadata properties: https://review.learn.microsoft.com/help/contribute/samples/process/onboarding?branch=main#add-metadata-to-readme\r languages:\r - Javascript\r page_type: sample\r name: \"Angular Single Page Application (SPA) that accesses Graph\"\r description: \"This Angular Single Page Application (SPA) accesses a protected route and makes a call to the Graph API as the user.\"\r products:\r - azure\r - azure-active-directory\r - ms-graph\r - microsoft-identity-platform\r urlFragment: ms-identity-docs-javascript-angular-spa\r ---\r -->\r <!-- SAMPLE ID: DOCS-CODE-022 -->\r # Angular | web | user sign-in, protected web API access (Microsoft Graph) | Microsoft identity platform",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
